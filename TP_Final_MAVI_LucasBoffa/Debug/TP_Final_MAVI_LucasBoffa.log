@@ -1,4 +1,13 @@
-﻿  Game.cpp
+﻿  Asteroide.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Asteroide.cpp(45,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Asteroide.cpp(152,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Button.cpp
+  Disparo.cpp
+  End.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\End.cpp(38,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\End.cpp(38,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Game.cpp
+  main.cpp
   Nivel.cpp
 D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Nivel.cpp(85,46): warning C4244: '=': conversión de 'sf::Int32' a 'float'; posible pérdida de datos
 D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Nivel.cpp(112,23): warning C4018: '<': no coinciden signed/unsigned
@@ -29,6 +38,9 @@ D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos p
 D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Player.cpp(124,34): warning C4244:         [
 D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Player.cpp(124,34): warning C4244:             T=unsigned int
 D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Player.cpp(124,34): warning C4244:         ]
-  main.cpp
+  PlayerCrosshair.cpp
+  Start.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Start.cpp(49,57): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\TP_Final_MAVI_LucasBoffa\Start.cpp(49,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
   Generando código...
   TP_Final_MAVI_LucasBoffa.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\TP_Final_MAVI_LucasBoffa\Debug\TP_Final_MAVI_LucasBoffa.exe
